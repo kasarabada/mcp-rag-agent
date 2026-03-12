@@ -1,0 +1,62 @@
+OBJECTIVE:
+My goal is to apply my technical skills in Java design and implementation, systems configuration and troubleshooting operations to fulfill the company’s core goals. 
+I aim to bring success to the company by designing, integrating, and updating frameworks to sustain Java applications and providing solutions to address technical issues 
+possibly encountered in a Java environment. My years of experience broadened my knowledge on Java technologies and enhanced my abilities in spotting trends, flaws, 
+and developing upgrades concerning these as well. With my expertise and commitment to become a productive team player, I am confident that I can be an asset to the company.
+
+Designed and implemented Java systems based on project requirements.
+Provided functional and technical expertise to business teams.
+Provided support in testing and maintenance of Java applications.
+Evaluated system performance and created improvement plans.
+Identified resource needs and reported the same to management.
+Identified and rectified project and operational risks.
+
+Designed and developed multi-tier Java architectures based on client requirements.
+Assisted in setting architectural goals for Java applications.
+Implemented coding standards and best practices in coordination with Project Manager.
+Attended client meetings and answered their technical queries.
+Participated in recruitment and training of technical staffs.
+Maintained documentations of architectural and engineering meetings.
+-----------------
+
+SENIOR JAVA ARCHITECT
+03/2018 - PRESENT
+Houston, TX
+Delivering code that meets security and performance requirements
+Industry experience industry experience of around 9 years and above
+Experience in J2EE, XML, Web Services, SQL, ANT
+Experience in agile / scrum methodology
+Understanding and experience of software development best practices
+Create, document, implement, and oversee the long-term vision, architecture and initiatives in the assigned area
+Work with product owners to establish product direction and technology solutions
+Estimate software development requirements and effort, propose alternatives, and prioritize development tasks for a given area
+JAVA ARCHITECT
+01/2011 - 12/2017
+Boston, MA
+Ensure higher level requirements from project stakeholders are satisfied, complete and testable
+Review code and documents for their area to ensure designs and coding are holistic
+Assess and oversee the technical delivery of high quality projects and products
+Design and develop a cloud based scalable, extensible, reliable and maintainable RESTful API platform
+Work with cross-functional teams to design and develop a broad set of APIs that meets the needs of our internal and external customers
+Evaluate and incorporate new technologies into new and existing frameworks
+Collaborates with Developers, Architects, UX, Product Owners and Test Engineers in an agile organization
+Enhance department and organization reputation by accepting ownership for accomplishing new and different requests, exploring opportunities to add value to job accomplishments
+SOLUTIONS / JAVA ARCHITECT
+06/2004 - 09/2010
+Boston, MA
+Provide direct support to business units as a subject matter expert (SME) for security defect resolution, including vulnerability remediation and/or mitigation
+Collaborate with application developers and vendors to ensure legacy and newly deployed applications are developed securely
+Research and review configurations, operating systems, and applications for compliance with policy, industry standards, and manufacturer's recommended security baselines
+Assist in the resolution of security incidents related to company assets, including root cause analyses
+Act as technical lead for medium to large projects
+Drive the design of solutions for the ExtraCare Loyalty program business that are scalable, maintainable, and reliable. Apply understanding of IT Standards and Design considerations for high volume online (OLTP) and batch transaction systems
+Demonstrated experience and review of the design of logical and physical data models (relational & dimensional), data dictionary and database volumetric and holds LDM reviews with data SMEs	
+
+roles and responsibilities
+
+Strong understanding and experience applying SOLID principles, design patterns and coding standards
+Good communication skills suitable for a fast paced environment
+Consulting skills such as interviewing stakeholders, conducting architecture reviews, and consensus building
+Proven experience of full stack development of high performing, scalable cloud applications using various cloud development stacks
+Demonstrated experience as application development lead or architect having responsibilities of decision making on architecture and design choices
+Prior experience with the following tools and products

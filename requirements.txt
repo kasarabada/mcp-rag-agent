@@ -1,0 +1,17 @@
+openai==1.35.3
+
+langchain==0.2.6
+langchain-openai==0.1.14
+langchain-community==0.2.6
+
+faiss-cpu==1.7.4
+gradio==4.29.0
+
+python-dotenv==1.0.1
+numpy==1.26.4
+pandas==2.2.2
+
+pydantic==2.7.4
+requests==2.32.3
+tqdm==4.66.4
+sentence-transformers==2.7.0
