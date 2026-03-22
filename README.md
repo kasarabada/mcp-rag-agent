@@ -1,18 +1,18 @@
 # mcp-rag-agent
 
-🚀 MCP RAG Agent – AI-Powered Multi-Agent RAG System
+## 🚀 MCP RAG Agent – AI-Powered Multi-Agent RAG System
 
 An end-to-end AI-powered Retrieval-Augmented Generation (RAG) system built using LangChain, Multi-Agent Architecture, and Model Context Protocol (MCP).
 
 This project demonstrates how to design production-ready Generative AI applications by combining LLMs, intelligent agents, and structured context handling.
 
-📌 Overview
+## 📌 Overview
 
 This project implements an Agentic RAG pipeline, where multiple AI components collaborate to understand user queries, retrieve relevant knowledge, and generate accurate responses.
 
 It leverages MCP (Model Context Protocol) to enable structured communication between agents and tools, improving modularity and scalability. MCP is commonly used to connect tools and enhance RAG workflows with better context handling and orchestration .
 
-🧠 Key Features
+## 🧠 Key Features
 🔍 Retrieval-Augmented Generation (RAG) for accurate, context-aware responses
 🤖 Multi-Agent Architecture for intelligent task orchestration
 🔗 MCP Integration for structured tool communication
@@ -22,7 +22,7 @@ It leverages MCP (Model Context Protocol) to enable structured communication bet
 🖥️ Interactive UI with Gradio for real-time interaction
 🏗️ Architecture
 
-The system follows an Agentic RAG workflow, where different components collaborate:
+## The system follows an Agentic RAG workflow, where different components collaborate:
 
 User Query
    ↓
@@ -36,7 +36,7 @@ LLM Response Generation
    ↓
 Final Answer
 
-🧩 Core Components
+## 🧩 Core Components
 Retriever Agent
 Fetches relevant documents using vector similarity search
 Reasoning / LLM Agent
