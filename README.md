@@ -1,4 +1,4 @@
-# mcp-rag-agent
+# MCP-RAG-AGENT
 
 ## 🚀 MCP RAG Agent – AI-Powered Multi-Agent RAG System
 
