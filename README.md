@@ -80,12 +80,4 @@ It leverages **MCP (Model Context Protocol)** to enable structured communication
 ## 🏗️ Architecture
 
 The system follows an **Agentic RAG workflow**, where different components collaborate:
-
-
-LLM / AI: OpenAI / LLM APIs
-Frameworks: LangChain, LangGraph
-Architecture: Multi-Agent Systems
-Protocol: Model Context Protocol (MCP)
-Vector Store: FAISS / Chroma (or configurable)
-Backend: Python
-UI: Gradio
+<img width="1536" height="1024" alt="ChatGPT Image Mar 23, 2026, 12_56_48 AM" src="https://github.com/user-attachments/assets/6d1c6076-6d2e-4fb2-b551-18db1857b086" />
